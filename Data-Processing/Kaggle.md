@@ -35,6 +35,6 @@ https://www.kaggle.com/datasets/lachmann12/human-liver-rnaseq-gene-expression-90
 https://www.kaggle.com/datasets/yasserhessein/hepatitis-c-virus-hcv  
 약 18개월간 HCV 치료용량을 받은 이집트 환자  
   
-**NHANES : **  
+**NHANES :**   
 https://www.kaggle.com/datasets/garyelangshaw/original-dataset  
 간 지방증 점수(CAP 점수)는 2017~2018년 및 2017~2020년 3월 NHANES(미국 국립보건통계센터)의 데이터를 사용하여 조사되었습니다. 데이터세트에는 인구통계, 식이, 검사, 실험실 및 설문지 데이터베이스가 포함됩니다. 각 데이터 세트는 SAS 뷰어 소프트웨어를 사용하여 CSV 파일로 변환된 SAS 파일 세트로 구성됩니다. 이 분석을 위해 선택된 변수는 수축기 및 확장기 혈압, 총 콜레스테롤, 인슐린, 중성지방, 탄력 점수 및 CAP 점수입니다. 데이터 정리 전 총 레코드 수는 10개 컬럼으로 8,056개였다. 그러나 데이터 정리 후 분석에 사용된 남은 레코드는 6개 컬럼으로 이루어진 6,394개였다.    
